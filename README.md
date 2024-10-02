@@ -42,7 +42,7 @@
 ###### Squishy, medium range, AoE, coordinated attacks, self-buffer.
 
 ##### Passive:
-###### +3 Spell Power
+###### +4 Spell Power
 ###### +0.25 Attack Speed
 ###### +10% Armor Penetration
 
@@ -61,8 +61,28 @@
 ##### 🎶 (Sub) Harmonist:
 ###### Squishy, medium range, AoE buffer, healer, support.
 
+##### Passive:
+###### +3 Spell Power
+###### +% Spell Haste, Mana Regenetion, Buff Duration based on Spell Power.
+###### +5% Movement Speed.
+
+##### Normal Attacks:
+###### Guitar sound, larger hitbox. Deal 85% Spell Power damage to first target hit, and pushes them away.
+
+##### Spells:
+
+###### 1 - Serenade: Play a soothing magical chord that projects a (pink) note that travels straight and damages entities that it pierces through by 75% Spell Power and heals the first friendly unit hit by 5 + 20% Spell Power, and Shield them by the same amount. (Cooldown: 4 seconds)
+
+###### 2 - Empower: Play a morale-raising tune that boosts nearby players' Attack Damage, Spell Power, and Arrow Damage. (Cooldown: 24 seconds)
+
+###### 3 - Heal: Focus your attention on playing a song that heals the spirit. While the song plays, cannot move, -50% Damage Taken, nearby friendly units are healed by 1 + 5% Spell Power every second. During this time, cannot cast other spells, including auto-attacks.
+
+###### 4 - Harmonize: Enter a harmonizing state. Nearby players including self have increased 
 
 ## Effects
+
+###### Silence
+###### Wisdom
 
 ## Enchants
 
@@ -74,7 +94,6 @@
 #### Bonus Music Damage
 #### Bonus Explosive Damage
 #### Buff Duration
-#### Healing Received
 #### Healing Given
 #### ...
 
