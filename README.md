@@ -23,11 +23,41 @@
 ##### 🪶 (Main) Archer:
 ###### Long range, single target.
 
-##### 🏹 (Sub) Ranger:
-###### Long range, high crit, single target, high movement.
+##### Passive: +0.15 Draw Speed, +0.1 Arrow Velocity
+
+##### Spells:
+###### 1 - Volley: Shoot a volley of 5 arrows in a cone in front, dealing damage to each enemy hit.
+
+##### 🏹 (Sub) Light Ranger:
+###### Long range, high crit, single target, high movement, magic damage.
+
+##### Passive: (Only with Bows)
+###### +0.25 Draw Speed, +0.1 Arrow Velocity, +3 Spell Power, +10% Crit Chance.
+###### Regular Arrow shots deal an extra instance of 50% Spell Power Light Damage.
+
+##### Spells:
+###### 1 - Enchanted Volley: Shoot a volley of 7 blazing Spectral Arrows in a cone in front, dealing damage to each enemy hit, while burning and glowing.
+
+###### 2 - Elven Leap: Leap forward (not upwards), and shoot continuous Arrows at enemies within a 1-second window.
+
+###### 3 - Between Realms: Turn invisible (to mobs), and grant a burst of Speed and Air Speed. Upon breaking the invisible with an Arrow, create a field around the target that rains light energy, dealing 75% Spell Damage Arrow damage to hostiles.
+
+###### 4 - Ethereal Storm: Enter a state of Ethereal Storm, increase your Spell Power by 4, Draw Speed by 2, and Movement Speed by 15%. Every Arrow hit shoots coordinated Arrow shot at the same target, at the same speed.
 
 ##### 💣 (Sub) Artillerist:
 ###### Medium-long range, large explosive AoE damage.
+
+##### Passive: (Only with Crossbows)
+###### +0.25 Draw Speed, +0.1 Arrow Velocity, +25% Armor Penetration
+
+##### Spells:
+###### 1 - Shrapnel Blast: Shoot a shotgun shot of 9 shrapnels, dealing a large AoE explosive damage while breaking hostile's Armor.
+
+###### 2 - Cluster Grenades: Shoot a grenade that lingers and explodes periodically in an area around it, dealing 4 + 50% Spell Damage per hit.
+
+###### 3 - Land Mine: Gain charges every 8 second, can hold up to 3 charges. Cast to throw in on the ground. Hostiles that step on the mine trigger an explosion that deals 12 + 150% Spell Power. Mine stays for 40 seconds.
+
+###### 4 - Air Strike: Throw a flare that signals an airstrike to a specified location. Creates 1 invisible entity in the middle of the square, and make it fly up for about 3-4 seconds. Then stop, and start firing 10 bombs dealing massive damage, and leaving a trail of fire at the end.
 
 ##### 📓 (Main) Musician:
 ###### Squishy, low-medium range, AoE.
