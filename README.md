@@ -14,11 +14,30 @@
 ##### 🪄 (Main) Wizard:
 ###### Squishy, high damage, medium-long range.
 
+##### Normal Attacks:
+###### Arcane Bolt, star bolts.
+
 ##### 🪐 (Sub) Astrologer:
 ###### Squishy, medium-high damage, medium range, AoE, CC, debuffs, flight, useful.
 
 ##### 🔥 (Sub) Pyromancer:
 ###### Squishy, high damage, medium-high range, AoE.
+
+##### Passive:
+###### +4 Spell Power, +10% Armor Penetration, +1 Mana Regeneration.
+
+##### Normal Attacks:
+###### Fireballs, typical.
+
+##### Spells: 
+
+###### 1 - Mystical Fire: Shoot a magical breath of fire that pierces through enemies and reduces their Armor stat by a flat amount.
+
+###### 2 - Fire Trail: Shoots a large spit of flame, that creates a trail of fire.
+
+###### 3 - Flamethrower: You know it.
+
+###### 4 - Explosion: You know it.
 
 ##### 🪶 (Main) Archer:
 ###### Long range, single target.
@@ -105,7 +124,7 @@
 
 ###### 2 - Empower: Play a morale-raising tune that boosts nearby players' Attack Damage, Spell Power, and Arrow Damage. (Cooldown: 24 seconds)
 
-###### 3 - Heal: Focus your attention on playing a song that heals the spirit. While the song plays, cannot move, -50% Damage Taken, nearby friendly units are healed by 1 + 5% Spell Power every second. During this time, cannot cast other spells, including auto-attacks.
+###### 3 - Heal: Focus your attention on playing a song that heals the spirit. While the song plays, cannot move, -50% Damage Taken, nearby friendly units are healed by 1 + 5% Spell Power and regenerating mana by (a fair amount) every second. During this time, cannot cast other spells, including auto-attacks.
 
 ###### 4 - Harmonize: Enter a harmonizing state. Nearby players including self have increased Attack Speed, Draw Speed, and Ability Haste. Each attack from those plays will trigger a coordinated musical attack dealing 25% Spell Power when near the Harmonist, this damage will be done by the Harmonist, with a cooldown of 0.5 seconds per player.
 
