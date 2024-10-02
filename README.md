@@ -49,6 +49,9 @@
 #### Bonus Magic Damage
 #### Bonus Music Damage
 #### Bonus Explosive Damage
+#### Buff Duration
+#### Healing Received
+#### Healing Given
 #### ...
 
 ## Mechanics
