@@ -71,13 +71,13 @@
 
 ##### Spells:
 
-###### 1 - Serenade: Play a soothing magical chord that projects a (pink) note that travels straight and damages entities that it pierces through by 75% Spell Power and heals the first friendly unit hit by 5 + 20% Spell Power, and Shield them by the same amount. (Cooldown: 4 seconds)
+###### 1 - Serenade: Play a soothing magical chord that projects a (pink) note that travels straight and damages entities that it pierces through by 75% Spell Power and heals the first friendly unit hit by 5 + 20% Spell Power. (Cooldown: 4 seconds)
 
 ###### 2 - Empower: Play a morale-raising tune that boosts nearby players' Attack Damage, Spell Power, and Arrow Damage. (Cooldown: 24 seconds)
 
 ###### 3 - Heal: Focus your attention on playing a song that heals the spirit. While the song plays, cannot move, -50% Damage Taken, nearby friendly units are healed by 1 + 5% Spell Power every second. During this time, cannot cast other spells, including auto-attacks.
 
-###### 4 - Harmonize: Enter a harmonizing state. Nearby players including self have increased 
+###### 4 - Harmonize: Enter a harmonizing state. Nearby players including self have increased Attack Speed, Draw Speed, and Ability Haste. Each attack from those plays will trigger a coordinated musical attack dealing 25% Spell Power when near the Harmonist, this damage will be done by the Harmonist, with a cooldown of 0.5 seconds per player.
 
 ## Effects
 
