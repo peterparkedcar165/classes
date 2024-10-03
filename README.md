@@ -2,17 +2,43 @@
 
 ### Classes
 
-##### ⚔️ (Main) Warrior:
+##### ✊ (Main) Warrior:
 ###### Basic melee fighter
 
-##### ✊ (Sub) Barbarian:
-###### High-stakes melee fighter. Less Armor, more Health, skills and abilities based on Health.
+###### Passive: +2 Attack Damage.
+##### ⚔️ (Sub) Sword Dancer:
+###### Fun, high-movement, short/medum range. Crit focused
+
+##### Passive: +3 Attack Damage. +0.25 Main/Off Attack Speed. +15% Parry Chance.
+##### Landing a critical hit summons a sword at the target, then slashes dealing damaging around.
+
+##### Spells:
+###### 1 - Lunge: Leap forward, stopping at the first enemy. If a hostile is hit, cooldown is reduced by half.
+
+###### 2 - Sword Fury: Summon a flurry of swords that fly forward, pierces and damages enemies it passes through. Upon casting, fixes the direction of the swords, so that when you turn around, the swords still travel that direciton.
+
+###### 3 - Living Sword: Summon a living sword that remains in place, and slashes around it dealing damage to hostiles around it.
+
+###### 4 - Shuriken: Summon a group of swords that form a shuriken shape and spins, then ride it instantly. Can move around with it, else, stays immobile. Enemies around the shuriken in its vicinity are continuously damaged.
+
 
 ##### 🛡️ (Sub) Guardian:
 ###### Safer approach to fighting. More Armor, same health, tanky, can provide defensive buffs and heals.
 
+###### Passive: +8 Armor, 15% Block Chance, 25% Total Armor Toughness (from all sources). (ONLY WITH SHIELD ON OFFHAND).
+
+##### Spells:
+###### 1 - Radiant Bash: Dash forward while blocking (only works on the horizontal axis), and stop after hitting the first hostile, creating a radiant explosion, dealing 85% Attack Damage + 50% Armor + 75% Spell Power to the first target hit, and 75% of that to the rest around.
+
+###### 2 - Sanctuary: Summon a field that serves the purpose of being a safe haven for allies. Every second, grants 1 Absorption health up to 10, and heals by 1 + 5% of Armor + 10% of Spell Power. Shields last until they are depleted
+
+###### 3 - Judgment: Rain a bunch of Diamond Swords from above, explodes after reaching the ground for a while.
+
+###### 4 - Guardian Blessing: Bless all players in the current dimension. Heals 6 + 30% Armor + 85% Spell Power. Grants +12 Armor, and +10% Damage Reduction from all sources.
+
 ##### 🪄 (Main) Wizard:
 ###### Squishy, high damage, medium-long range.
+###### +2 Spell Power, +0.5 Mana Regeneration.
 
 ##### Normal Attacks:
 ###### Arcane Bolt, star bolts.
@@ -23,8 +49,8 @@
 ##### 🪐 (Sub) Astrologer:
 ###### Squishy, medium-high damage, medium range, AoE, CC, debuffs, flight, useful.
 
-##### Passive: +3 Spell Power, +1 Mana Regeneration, -50% Fall Damage
-##### When a nearby hostile takes Fall Damage, cancel that damage, and deal damage to them by you, proportional to the velocity.
+###### Passive: +3 Spell Power, +1 Mana Regeneration, -50% Fall Damage
+###### When a nearby hostile takes Fall Damage, cancel that damage, and deal damage to them by you, proportional to the velocity.
 
 ##### Normal Attacks:
 ###### Star Force: Shoot a flurry of 3 stars dealing 4 + 35% Spell Power damage per hit.
@@ -34,7 +60,7 @@
 
 ###### 2 - Shooting Stars: Rain down shooting stars from above you towards the direction you're looking at. Each star deals 5 + 50% Spell Power direct hit and 3 + 30% Spell Power in AoE.
 
-###### 3 - Dark Void: Launch a projectile that travels straight and stops mid-air very quickly, summoning a dark hole that draws in all hostiles while damaging them by 3 + 30% Spell Power per second. Range scales with Spell Power. Enemies inside are slowed.
+###### 3 - Dark Void: Launch a projectile that travels straight and stops mid-air very quickly, summoning a dark hole that draws in all hostiles while damaging them by 3 + 30% Spell Power per second. Range scales with Spell Power. Enemies inside are slowed. Each hit reduces target's armor by 1.
 
 ###### 4 - Sea of Stars: Create a large field that turns the area into a sea of stars, lowering all gravity for players. Enemies inside are slowed. Meteors will fly from one end to the other, dealing 5 + 50% Spell Power damage to enemies hit. 3 + 30% Spell Power in AoE.
 
@@ -162,7 +188,10 @@
 #### Bonus Explosive Damage
 #### Buff Duration
 #### Healing Given
-#### ...
+#### Block Chance
+##### Chance to block incoming attacks, negating the damage and effect completely.
+#### Parry Chance
+##### Chance to parry incoming attacks, negating the damage and effect, and striking back dealing damage equal to 100% of Attack Damage.
 
 ## Mechanics
 #### Mana
