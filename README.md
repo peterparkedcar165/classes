@@ -184,10 +184,12 @@
 #### Mana Regeneration
 #### Spell Power
 #### Bonus Magic Damage
-#### Bonus Music Damage
 #### Bonus Explosive Damage
 #### Buff Duration
 #### Healing Given
+#### Stealth
+#### Evasion Chance
+##### Chance to evade incoming attacks, negating the damage and effect completely, and granting a brief Evasive Haste I.
 #### Block Chance
 ##### Chance to block incoming attacks, negating the damage and effect completely.
 #### Parry Chance
