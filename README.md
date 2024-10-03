@@ -6,7 +6,7 @@
 ###### Basic melee fighter
 
 ###### Passive: +2 Attack Damage.
-##### ⚔️ (Sub) Sword Dancer:
+##### ⚔️ (Sub) Blade Dancer:
 ###### Fun, high-movement, short/medum range. Crit focused
 
 ##### Passive: +3 Attack Damage. +0.25 Main/Off Attack Speed. +15% Parry Chance.
