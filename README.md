@@ -17,8 +17,26 @@
 ##### Normal Attacks:
 ###### Arcane Bolt, star bolts.
 
+##### Spells:
+###### Star Force: Shoot a flurry of 3 stars dealing 4 + 35% Spell Power damage per hit.
+
 ##### 🪐 (Sub) Astrologer:
 ###### Squishy, medium-high damage, medium range, AoE, CC, debuffs, flight, useful.
+
+##### Passive: +3 Spell Power, +1 Mana Regeneration, -50% Fall Damage
+##### When a nearby hostile takes Fall Damage, cancel that damage, and deal damage to them by you, proportional to the velocity.
+
+##### Normal Attacks:
+###### Star Force: Shoot a flurry of 3 stars dealing 4 + 35% Spell Power damage per hit.
+
+##### Spells:
+###### 1 - Gravity Shift: Shoot a dark star that damages and shifts the enemy's gravity upside down, causing them to rise up. After half a second, the effect ends, pushing it back down.
+
+###### 2 - Shooting Stars: Rain down shooting stars from above you towards the direction you're looking at. Each star deals 5 + 50% Spell Power direct hit and 3 + 30% Spell Power in AoE.
+
+###### 3 - Dark Void: Launch a projectile that travels straight and stops mid-air very quickly, summoning a dark hole that draws in all hostiles while damaging them by 3 + 30% Spell Power per second. Range scales with Spell Power. Enemies inside are slowed.
+
+###### 4 - Sea of Stars: Create a large field that turns the area into a sea of stars, lowering all gravity for players. Enemies inside are slowed. Meteors will fly from one end to the other, dealing 5 + 50% Spell Power damage to enemies hit. 3 + 30% Spell Power in AoE.
 
 ##### 🔥 (Sub) Pyromancer:
 ###### Squishy, high damage, medium-high range, AoE.
