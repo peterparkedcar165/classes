@@ -97,6 +97,7 @@
 ##### Passive: (Only with Bows)
 ###### +0.25 Draw Speed, +0.1 Arrow Velocity, +3 Spell Power, +10% Crit Chance.
 ###### Regular Arrow shots deal an extra instance of 50% Spell Power Light Damage.
+###### 50% of Bonus Draw Speed is converted to Ability Haste
 
 ##### Spells:
 ###### 1 - Enchanted Volley: Shoot a volley of 7 blazing Spectral Arrows in a cone in front, dealing damage to each enemy hit, while burning and glowing.
