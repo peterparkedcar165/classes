@@ -195,5 +195,20 @@
 #### Parry Chance
 ##### Chance to parry incoming attacks, negating the damage and effect, and striking back dealing damage equal to 100% of Attack Damage.
 
-## Mechanics
-#### Mana
+## Mechanics: 
+### Level Progression:
+#### [Human]:
+##### Level 10: Unlocks class selection.
+#### [First Class]:
+##### Level 15: Unlocks first ability.
+##### Level 30: Unlocks checkpoint to advance. -> Advance: Use advancement scroll, found through crafting or villager. Spends 30 Levels.
+#### [Second Class]:
+##### Level 0: Unlocks first ability.
+##### Level 20 + Scroll: Unlocks second ability.
+##### Level 35 + Scroll: Unlocks third ability.
+##### Level 50 + Scroll: Unlocks ultimate.
+
+#### [Player]:
+##### Use a separate Exp system, each level, grant 1 Passive Point, usable to increase attributes by small increment.
+
+### Mana
