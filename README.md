@@ -104,7 +104,7 @@
 
 ###### 2 - Elven Leap: Leap forward (not upwards), and shoot continuous Arrows at enemies within a 1-second window.
 
-###### 3 - Ethereal Sniper: Increase your Stealth by 50%, and grant a burst of Speed and Air Speed. Arrow shots that hit targets away from the Follow Range / Stealth threshold will not cause aggro. Arrow Damage decreases but Arrow Velocity increases proportionally.
+###### 3 - Ethereal Sniper [TOGGLE]: Increase your Stealth by 50%, and grant a burst of Speed and Air Speed. Arrow shots that hit targets away from the Follow Range / Stealth threshold will not cause aggro. Arrow Damage decreases but Arrow Velocity increases proportionally. Drains Mana and Cooldown.
 
 ###### 4 - Ethereal Storm: Enter a state of Ethereal Storm, increase your Spell Power by 4, Draw Speed by 2, and Movement Speed by 15%. Every Arrow hit shoots coordinated Light Bolt shot at the same target, at the same speed, which causes the same explosion.
 
