@@ -100,13 +100,13 @@
 ###### 50% of Bonus Draw Speed is converted to Ability Haste
 
 ##### Spells:
-###### 1 - Enchanted Volley: Shoot a volley of 7 blazing Spectral Arrows in a cone in front, dealing damage to each enemy hit, while burning and glowing.
+###### 1 - Enchanted Volley: Shoot a volley of 7 blazing Arrows in a cone in front, dealing damage to each enemy hit, while burning and glowing.
 
 ###### 2 - Elven Leap: Leap forward (not upwards), and shoot continuous Arrows at enemies within a 1-second window.
 
-###### 3 - Between Realms: Turn invisible (to mobs), and grant a burst of Speed and Air Speed. Upon breaking the invisible with an Arrow, create a field around the target that rains light energy, dealing 75% Spell Damage Arrow damage to hostiles.
+###### 3 - Ethereal Sniper: Increase your Stealth by 50%, and grant a burst of Speed and Air Speed. Arrow shots that hit targets away from the Follow Range / Stealth threshold will not cause aggro. Arrow Damage decreases but Arrow Velocity increases proportionally.
 
-###### 4 - Ethereal Storm: Enter a state of Ethereal Storm, increase your Spell Power by 4, Draw Speed by 2, and Movement Speed by 15%. Every Arrow hit shoots coordinated Arrow shot at the same target, at the same speed.
+###### 4 - Ethereal Storm: Enter a state of Ethereal Storm, increase your Spell Power by 4, Draw Speed by 2, and Movement Speed by 15%. Every Arrow hit shoots coordinated Light Bolt shot at the same target, at the same speed, which causes the same explosion.
 
 ##### 💣 (Sub) Artillerist:
 ###### Medium-long range, large explosive AoE damage.
