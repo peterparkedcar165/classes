@@ -106,7 +106,7 @@
 
 ###### 3 - Ethereal Sniper [TOGGLE]: Increase your Stealth by 50%, and grant a burst of Speed and Air Speed. Arrow shots that hit targets away from the Follow Range / Stealth threshold will not cause aggro. Arrow Damage decreases but Arrow Velocity increases proportionally. Drains Mana and Cooldown, which occurs at a higher rate if moving while not sneaking.
 
-###### 4 - Ethereal Storm: Enter a state of Ethereal Storm, increase your Spell Power by 4, Draw Speed by 2, and Movement Speed by 15%. Every Arrow hit causes the same explosion as the passive, but 3 times.
+###### 4 - Ethereal Storm: Enter a state of Ethereal Storm, increase your Spell Power by 4, Draw Speed by 2, and Movement Speed by 15%. Every two Arrow hits will fire an additional Arrow at the target, with the same speed. Each additional arrow counts towards the next one. Arrow used is refunded.
 
 ##### 💣 (Sub) Artillerist:
 ###### Medium-long range, large explosive AoE damage.
