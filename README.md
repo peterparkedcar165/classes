@@ -86,7 +86,7 @@
 ##### 🪶 (Main) Archer:
 ###### Long range, single target.
 
-##### Passive: +0.15 Draw Speed, +0.1 Arrow Velocity
+##### Passive: +0.15 Draw Speed, +0.05 Arrow Velocity
 
 ##### Spells:
 ###### 1 - Volley: Shoot a volley of 5 arrows in a cone in front, dealing damage to each enemy hit.
@@ -96,7 +96,7 @@
 
 ##### Passive: (Only with Bows)
 ###### +0.25 Draw Speed, +0.1 Arrow Velocity, +3 Spell Power, +10% Crit Chance.
-###### Regular Arrow shots deal an extra instance of 50% Spell Power Light Damage.
+###### Regular Arrow shots deal an extra instance of 35% Spell Power Light Damage.
 ###### 50% of Bonus Draw Speed is converted to Ability Haste
 
 ##### Spells:
