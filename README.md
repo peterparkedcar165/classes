@@ -94,7 +94,7 @@
 ##### 🏹 (Sub) Light Ranger:
 ###### Long range, high crit, single target, high movement, magic damage.
 
-##### Passive: (Only with Bows)
+##### Passive: (Only with Bows and Crossbows)
 ###### +0.25 Draw Speed, +0.1 Arrow Velocity, +3 Spell Power, +10% Crit Chance.
 ###### Regular Arrow shots deal an extra instance of 35% Spell Power Light Damage.
 ###### 50% of Bonus Draw Speed is converted to Ability Haste
@@ -102,22 +102,23 @@
 ##### Spells:
 ###### 1 - Enchanted Volley: Shoot a volley of 7 blazing Arrows in a cone in front, dealing damage to each enemy hit, while burning and glowing.
 
-###### 2 - Elven Leap: Leap forward (not upwards), and shoot continuous Arrows at enemies within a 1-second window.
+###### 2 - Elven Leap: Leap forward (not upwards), and shoot continuous Arrows at enemies within a 1-second window. Arrows reduce the cooldown by a bit.
 
-###### 3 - Ethereal Sniper [TOGGLE]: Increase your Stealth by 50%, and grant a burst of Speed and Air Speed. Arrow shots that hit targets away from the Follow Range / Stealth threshold will not cause aggro. Arrow Damage decreases but Arrow Velocity increases proportionally. Drains Mana and Cooldown, which occurs at a higher rate if moving while not sneaking.
+###### 3 - Other Side: Increase your Stealth by 100%, and grant a burst of Movement Speed and Air Speed. No footstep sounds. (During this time, all mobs lose aggro). +0.6 Step Height.
 
 ###### 4 - Ethereal Storm: Enter a state of Ethereal Storm, increase your Spell Power by 4, Draw Speed by 2, and Movement Speed by 15%. Every two Arrow hits will fire an additional Arrow at the target, with the same speed. Each additional arrow counts towards the next one. Arrow used is refunded.
 
 ##### 💣 (Sub) Artillerist:
 ###### Medium-long range, large explosive AoE damage.
 
-##### Passive: (Only with Crossbows)
-###### +0.25 Draw Speed, +0.1 Arrow Velocity, +25% Armor Penetration
+##### Passive: (Only with Cannons)
+###### +3 Artillery Power, +25% Armor Penetration
+###### Cannon Balls crafting is doubled.
 
 ##### Spells:
-###### 1 - Shrapnel Blast: Shoot a shotgun shot of 9 shrapnels, dealing a large AoE explosive damage while breaking hostile's Armor.
+###### 1 - Shrapnel Blast: Shoot a shotgun shot of 10 shrapnels, dealing a large AoE explosive damage, of 65% Artillery Power per direct hit, and 75% of that to AoE, and inflict Shrapnel Shred to targets, reducing armor by 1 per instance.
 
-###### 2 - Cluster Grenades: Shoot a grenade that lingers and explodes periodically in an area around it, dealing 4 + 50% Spell Damage per hit.
+###### 2 - Cluster Grenades: Shoot a grenade that lingers and explodes periodically in an area around it, dealing 4 + 50% Artillery Power per hit.
 
 ###### 3 - Land Mine: Gain charges every 8 second, can hold up to 3 charges. Cast to throw in on the ground. Hostiles that step on the mine trigger an explosion that deals 12 + 150% Spell Power. Mine stays for 40 seconds.
 
