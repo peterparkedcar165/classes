@@ -112,8 +112,9 @@
 ###### Medium-long range, large explosive AoE damage.
 
 ##### Passive: (Only with Cannons)
-###### +3 Artillery Power, +25% Armor Penetration
+###### +2 Artillery Power, +25% Armor Penetration
 ###### Cannon Balls crafting is doubled.
+###### Crafting Cannons grant +1 Artillery Power, and 5% Arrow Velocity
 
 ##### Spells:
 ###### 1 - Shrapnel Blast: Shoot a shotgun shot of 10 shrapnels, dealing a large AoE explosive damage, of 65% Artillery Power per direct hit, and 75% of that to AoE, and inflict Shrapnel Shred to targets, reducing armor by 1 per instance.
